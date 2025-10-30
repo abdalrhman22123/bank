@@ -7,7 +7,7 @@ const Navbar = () => {
         <>
         <Nav />
         <div className='navb'>
-        <img src={Logo} alt="logo" />
+        <img className='cbank' src={Logo} alt="logo" />
          <Nav title='About Us' />
         <Nav title='Investor Relations' />
         <Nav title='Responsible Banking' /> 

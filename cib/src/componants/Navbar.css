@@ -1,7 +1,13 @@
 .navb
 {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     background-color: #032D62;
+    /* gap: 20px; */
+    /* width: 100%; */
     padding: 2%;
+}
+.cbank
+{
+margin-left: 4%;
 }
