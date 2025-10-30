@@ -1,0 +1,13 @@
+.sub
+{
+    color: black;
+    display: inline-flex;
+    gap: 20px;
+    font-size: 1.4vw;
+    background-color: white;
+    padding: 30px 100px;
+    flex-shrink: 0;
+    box-shadow: 1px 1px 12px 0;
+    padding-right: 583px;
+    margin-top: 15%;
+}
