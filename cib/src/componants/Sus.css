@@ -1,0 +1,62 @@
+.sus
+{
+    color: #333;
+    font-weight: 500;
+    line-height: 22px; /* 180.328% */
+    letter-spacing: 5px;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.3vw;
+}
+.integral
+{
+    text-align: center;
+    margin-top: 1%;
+    color: #F58420;
+    font-weight: 700;
+    font-size: 2.3vw;
+}
+.exchange
+{
+    font-size: 1.2vw;
+    font-weight: 600;
+}
+.bloom
+{
+    font-size: 1.2vw;
+    font-weight: 600;
+    text-align: center;
+}
+.ft
+{
+    font-size: 1.2vw;
+    font-weight: 600;
+}
+.logos
+{
+    display: flex;
+    gap: 140px;
+    justify-content: center;
+    margin-top: 3%;
+}
+.blogo
+{
+    justify-content: center;
+    margin-left: 38%;
+}
+.learrn
+{
+    justify-content: center;
+    font-size: 1.3vw;
+    font-weight: 500;
+    height: 20px;
+padding: 15.5px 25.11px 17.5px 24px;
+border-radius: 6px;
+background: #1858A8;
+width: 100px;
+color: white;
+text-align: center;
+justify-content: center;
+margin-left: 45%;
+margin-top: 5%;
+}
