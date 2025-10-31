@@ -11,6 +11,7 @@ import Sect from '../componants/Scale';
 import Inter from '../componants/Sus';
 import Ward from '../componants/Award';
 import Care from '../componants/Care';
+import Foot from '../componants/Footer';
 
 const Home = () => {
     return ( 
@@ -34,6 +35,7 @@ const Home = () => {
         <Inter />
         <Ward />
         <Care />
+        <Foot />
         </>
      );
 }
