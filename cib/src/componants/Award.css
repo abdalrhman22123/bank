@@ -1,0 +1,86 @@
+.award
+{
+    color: #333;
+    font-size: 1.3vw;
+    font-weight: 500;
+line-height: 22px; /* 180.328% */
+letter-spacing: 5px;
+text-align: center;
+margin-top: 8%;
+}
+.quality
+{
+    text-align: center;
+    margin-top: 1%;
+    font-size: 2.3vw;
+    font-weight: 700;
+    color: #F58420;
+}
+.asec
+{
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    margin-top: 4%;
+}
+.cash
+{
+    margin-left: 30%;
+}
+.priv
+{
+    font-size: 1.3vw;
+    text-align: center;
+    font-weight: 500;
+}
+.global
+{
+    text-align: center;
+    margin-top: 12%;
+}
+.merge
+{
+    text-align: center;
+    font-size: 1.3vw;
+    font-weight: 500;
+}
+.fin
+{
+    text-align: center;
+    margin-top: 1%;
+}
+.building
+{
+    margin-left: 40%;
+}
+.egypt
+{
+    text-align: center;
+    font-size: 1.3vw;
+    font-weight: 500;
+}
+.euro
+{
+     text-align: center;
+    margin-top: 16%;
+}
+.bankk
+{
+    margin-left: 32%;
+}
+.our
+{
+    justify-content: center;
+    font-size: 1.3vw;
+    font-weight: 500;
+    height: 20px;
+padding: 15.5px 25.11px 17.5px 24px;
+border-radius: 6px;
+background: #1858A8;
+width: 200px;
+color: white;
+text-align: center;
+justify-content: center;
+margin-left: 42%;
+margin-top: 5%;
+}
