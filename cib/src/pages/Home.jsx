@@ -10,6 +10,7 @@ import New from '../componants/News';
 import Sect from '../componants/Scale';
 import Inter from '../componants/Sus';
 import Ward from '../componants/Award';
+import Care from '../componants/Care';
 
 const Home = () => {
     return ( 
@@ -32,6 +33,7 @@ const Home = () => {
         <Sect />
         <Inter />
         <Ward />
+        <Care />
         </>
      );
 }
