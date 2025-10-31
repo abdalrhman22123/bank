@@ -6,6 +6,8 @@ import App from '../componants/Sub';
 import "./feed.css"
 import Apply from '../componants/Section';
 import Learn from '../componants/Learn';
+import New from '../componants/News';
+import Sect from '../componants/Scale';
 
 const Home = () => {
     return ( 
@@ -24,6 +26,8 @@ const Home = () => {
         </div>
         <Apply />
         <Learn />
+        <New />
+        <Sect />
         </>
      );
 }

@@ -1,0 +1,30 @@
+.comm
+{
+    color: #1858A8;
+    font-weight: 700;
+    font-size: 1.3vw;
+    margin-top: 1%;
+}
+.lead
+{
+    margin-top: 0.4%;
+}
+.nbox
+{
+    display: flex;
+    /* border-top: 1px solid #B8BABC; */
+    /* width: 889.99px; */
+/* height: 361px; */
+/* padding: 31px 0; */
+/* align-items: flex-start; */
+/* border-bottom: 1px solid #B8BABC; */
+justify-content: center;
+margin-top: 1%;
+}
+.boxx
+{
+    /* display: flex; */
+    /* flex-direction: column; */
+    margin-left: 2%;
+    margin-top: 1%;
+}

@@ -35,6 +35,7 @@ const Learn = () => {
             <div className='read'>Read more</div>
         </div>
          </div>
+         <div className='view'>View more</div>
         
 
         </>

@@ -92,3 +92,19 @@ height: 401.99px;
     justify-content: center;
     margin-top: 5%;
 }
+.view
+{
+    color: #FFF;
+    font-size: 1.3vw;
+    height: 30px;
+    padding: 15.5px 23.71px 17.5px 24px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+border-radius: 6px;
+background: #1858A8;
+width: 110px;
+margin-top: 8%;
+justify-items: center;
+margin-left: 45%;
+}
