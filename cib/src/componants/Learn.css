@@ -1,0 +1,94 @@
+.learn
+{ 
+    text-align: center;
+    margin-top: 7%;
+      color: #F58420;
+      font-weight: 700;
+      font-size: 2.5vw;
+}
+.more
+{
+    text-align: center;
+     margin-top: 0.5%;
+     font-size: 1.5vw;
+}
+.sec1
+{
+border-radius: 6px;
+background: #FFF;
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05);
+width: 349.99px;
+height: 401.99px;
+
+}
+.buy
+{
+    color: #1858A8;
+    font-weight: 700;
+    font-size: 1.4vw;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+.can
+{
+     margin-top: 4%;
+    margin-left: 2%;
+    font-weight: 600;
+}
+.read
+{
+     margin-top: 7%;
+    margin-left: 2%;
+    font-size: 1.2vw;
+}
+.sec2
+{
+    border-radius: 6px;
+background: #FFF;
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05);
+width: 349.99px;
+height: 401.99px;
+}
+.travel
+{
+    color: #1858A8;
+    font-weight: 700;
+    font-size: 1.4vw;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+.all
+{
+    margin-top: 4%;
+    margin-left: 2%;
+    font-weight: 600;
+}
+.sec3
+{
+    border-radius: 6px;
+background: #FFF;
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05);
+width: 349.99px;
+height: 401.99px;
+}
+.uni
+{
+   color: #1858A8;
+    font-weight: 700;
+    font-size: 1.4vw;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+.impact
+{
+    margin-top: 4%;
+    margin-left: 2%;
+    font-weight: 600;
+}
+.secs
+{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 5%;
+}

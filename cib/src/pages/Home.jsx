@@ -5,6 +5,7 @@ import Sec from '../componants/Main';
 import App from '../componants/Sub';
 import "./feed.css"
 import Apply from '../componants/Section';
+import Learn from '../componants/Learn';
 
 const Home = () => {
     return ( 
@@ -22,6 +23,7 @@ const Home = () => {
         <App title='Awards'/>
         </div>
         <Apply />
+        <Learn />
         </>
      );
 }
